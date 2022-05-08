@@ -1,1 +1,1 @@
-# exmple_server_testing
+# Example of tests for simple server
